@@ -36,12 +36,13 @@ header {
 }
 
 .main {
-  height: 625px;
+  height: 620px;
   position: relative;
 }
 
 .text {
-  font-size: 65px;
+  font-size: 6vw;
+  height: 280px;
   padding-top: 40vh;
 }
 
@@ -59,10 +60,9 @@ header {
 
 .box {
   position: absolute;
-  bottom: 25px;
-
+  bottom: 5%;
   background-color: #191970;
-  height: 25vh;
-  width: 70vw;
+  height: 26%;
+  width: 75%;
   z-index: 1;
 }
