@@ -1,4 +1,5 @@
 * {
+
   list-style: none;
 }
 
@@ -41,9 +42,9 @@ header {
 }
 
 .text {
-  font-size: 6vw;
-  height: 280px;
-  padding-top: 40vh;
+  font-size: 65px;
+  position: absolute;
+  bottom: 29%;
 }
 
 .img {
